@@ -1,12 +1,13 @@
-# 💻 Source
+# 📝 Exercises
 
-> Code examples from class sessions
+> Practice problems & assignments
 
 ---
 
-⚡ **What's inside:**
-- Scripts & notebooks covered in class
-- Demos & practical examples
+💪 **What's inside:**
+- Hands-on exercises
+- Mini projects
+- Coding challenges
 
 🗂️ **Organized by course level** — from Zero to Career.
 
