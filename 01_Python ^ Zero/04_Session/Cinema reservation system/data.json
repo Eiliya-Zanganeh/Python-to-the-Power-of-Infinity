@@ -1,0 +1,9 @@
+[
+    {
+        "movie": "The Dark Knight",
+        "start_datetime": "2026-05-08T20:00:00",
+        "end_datetime": "2026-05-08T21:30:00",
+        "maximum_reservation": 10,
+        "reservation_count": 0
+    }
+]
